@@ -1,0 +1,8 @@
+La relación que encuentro entre estos tres conceptos es que debemos
+empezar hablando de la responsabilidad ya que como usuarios digitales
+y seres humanos que interactuan en la vida real debemos conocer lo que
+debemos hacer y no en estas plataformas, tambien como ciudadanos democraticos
+los cuales tomamos decisiones en un ambito, por ejemplo, político y sobre todo
+en un trabajo técnico como git podremos concluir que habría colaboración entre
+equipos de desarrollo, permitiendo un flujo de trabajo y gestionando tareas
+resultando en un bien común en general.
