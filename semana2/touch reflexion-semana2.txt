@@ -1,0 +1,9 @@
+La terminal es esencial ya que esta recibe comandos e interactua
+con el sistema operativo de un ordenador. Ademas, esta terminal
+de comandos permite automatizar tareas repetitivas, lo cual es de
+gran ayuda por que se ahorra tiempo y esfuerzo. En algunos casos,
+la terminal de comandos puede ser más rápida y eficiente que la
+interfaz gráfica de usuario para realizar ciertas tareas, y finalmente,
+la mayoría de las herramientas y lenguajes de programación tienen
+una interfaz de línea de comandos que permite interactuar con ellos
+de manera más eficiente.
