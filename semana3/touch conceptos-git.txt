@@ -1,0 +1,11 @@
+Repositorio: es un tipo de almacenamiento digital centralizado donde se
+almacena, se organiza y se mantiene información digital que los desarrolladores
+utilizan para realizary administrar cambios en el código fuente de una aplicación.
+
+commit: guarda los cambios realizados en un proyecto de software en un sistema
+de control de versiones. Este proceso toma una instantánea de los cambios y la
+agrega al sistema de control de versiones
+
+Push: sube todas las confirmaciones de la rama local a la rama remota
+correspondiente. Es uno de los cuatro comandos de Git que solicitan
+interacción con el repositorio remoto.

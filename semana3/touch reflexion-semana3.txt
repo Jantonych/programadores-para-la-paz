@@ -1,0 +1,8 @@
+dada su función para la gestión del código fuente, este sistema
+de control de versiones de código abierto se utiliza habitualmente
+para la coordinación entre desarrolladores.  Permite mantener un
+registro histórico de los cambios realizados, lo que resulta primordial
+para detectar errores, retroceder a versiones anteriores, colaborar de
+manera efectiva y garantizar la integridad del proyecto. La importancia
+radica en la trazabilidad, la transparencia y la seguridad que aporta a
+cualquier proyecto de software.
