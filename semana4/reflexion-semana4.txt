@@ -1,0 +1,10 @@
+Porque son muy importantes y utilizadas hoy en día debido a
+que son vitales en diferentes entornos ya sea para comunicacion
+y videoconferencias, productividad, ofimatica, entretenimiento,
+educación, almacenamiento en la nube etc. También cabe resaltar
+que Node.js resulta ser una ventaja para las comunidades ya que
+se ahorran costos, hay más privacidad y seguridad e independencia.
+Para concluir, utilizar Node.js en herramientas tecnologicas permite
+que haya acceso a la información y que  se puedan resolver problemas
+más eficientemente acorde a las necesidades de las personas o de una
+comunidad.
