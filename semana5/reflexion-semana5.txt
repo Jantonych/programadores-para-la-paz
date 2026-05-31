@@ -1,0 +1,9 @@
+Las APIs permiten que aplicaciones de software se comuniquen
+y compartan información entre sí. Por ejemplo, cuando se trata
+de compartir información encontramos ventajas y desventajas,
+los usuarios pueden transferir o enviar información entre diferentes
+apps facilitando la colaboración y la interacción en redes sociales,
+como desventaja la no gestión de permisos pone en riesgo a los
+usuarios. Las APIs reciben datos de forma estructurada, segura y
+automatizada permitiendo que en las comunidades haya exactitud
+al compartir datos y cuando hayan actualizaciones en tiempo real.
