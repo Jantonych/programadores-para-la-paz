@@ -1,5 +1,5 @@
 La ruta lo que hace es recibir un mensaje y
-contestar nuevamente el mensaje en un archivo json
+contestar nuevamente el mensaje en un archivo json.
 
 El post nos sirve en una aplicación comunitaria
 para recibir datos de los miembros de la
