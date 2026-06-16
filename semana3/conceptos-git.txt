@@ -1,6 +1,6 @@
 Repositorio: es un tipo de almacenamiento digital centralizado donde se
 almacena, se organiza y se mantiene información digital que los desarrolladores
-utilizan para realizary administrar cambios en el código fuente de una aplicación.
+utilizan para realizar y administrar cambios en el código fuente de una aplicación.
 
 commit: guarda los cambios realizados en un proyecto de software en un sistema
 de control de versiones. Este proceso toma una instantánea de los cambios y la
