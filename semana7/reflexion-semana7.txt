@@ -1,9 +1,0 @@
-Es importante que las comunidades puedan registrar y consultar reportes o incidencias
-en una plataforma tecnológica porque esto facilita la identificación, el seguimiento
-y la solución de los problemas que afectan a la comunidad. Además, permite que la información
-esté centralizada y disponible para todos los usuarios autorizados, promoviendo la transparencia
-y la participación ciudadana. Asimismo, el registro de incidencias ayuda a detectar problemas
-recurrentes, priorizar acciones y mejorar la toma de decisiones por parte de las autoridades u
-organizaciones responsables. La consulta de los reportes también evita  la duplicación de esfuerzos
-y permite a los ciudadanos conocer el estado de las situaciones reportadas, fortaleciendo la comunicación
-y la colaboración dentro de la comunidad.
