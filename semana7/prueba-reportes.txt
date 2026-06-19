@@ -1,0 +1,34 @@
+Se ejecutó el servidor con el comando:
+
+node server.js
+
+Se realizó una petición POST a la ruta /reportes enviando:
+
+{
+"tipo": "Infraestructura",
+"descripcion": "Daño en alumbrado público"
+}
+
+El servidor respondió confirmando el registro del reporte.
+Posteriormente se realizó una petición GET a la ruta /reportes.
+
+La respuesta obtenida fue:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  },
+  {
+    "id": 2,
+    "tipo": "Ambiente",
+    "descripcion": "Acumulación de residuos en una zona comunitaria"
+  }
+]
+
+Conclusión:
+
+La ruta GET /reportes muestra todos los reportes almacenados en el arreglo reportes. 
+Cada petición POST agrega un nuevo reporte al arreglo. Los datos se guardan únicamente
+en memoria, por lo que se perderán cuando el servidor se detenga o se reinicie.
